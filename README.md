@@ -5,6 +5,7 @@ Provides shortcodes for conditional login to include content in a post based on 
 With this conditional shortcodes content can be protected and will be displayed only to logged in members.
 
 Example : 
+
 [is_user_logged_in]
 
   Welcome user 
